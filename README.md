@@ -1,6 +1,6 @@
 # braintapper-svelte-datepicker
 
-Brief description here
+Datepicker control for Svelte
 
 
 # Usage
@@ -10,28 +10,17 @@ Brief description here
 Import the components you need in your <script> tag:
 
 ```
-  import Indent from "braintapper-svelte-datepicker";
+  import Datepicker from "braintapper-svelte-datepicker";
 ```
 
 ## Example Markup
 
 ```
-  <datepicker/>
+  <DatePicker/>
 ```
 
-## Prop Values
-
-### prop
-
-### prop
-
-
----
-
-`degit braintappper/braintapper-svelte-component-template#main <datepicker>`
-`cd <datepicker>`
-`node github_prep.js <datepicker>`
-`github_prep.bat`
+[Svelte REPL](https://svelte.dev/repl/e80f170c6ebc46d38f2916573e6688dd?version=3.31.0)
+   
 
 ---
 
